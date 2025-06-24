@@ -1,2 +1,0 @@
-# BankNTUN
-BankNTUN
